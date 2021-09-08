@@ -10,7 +10,8 @@ const animalEmojiDictionary = {
   "🐯": "Tiger",
   "🦁": "Lion",
   "🐷": "Pig",
-  "🐵": "Monkey"
+  "🐵": "Monkey",
+  "🐄": "Cow"
 };
 
 var emojisArray = Object.keys(animalEmojiDictionary);

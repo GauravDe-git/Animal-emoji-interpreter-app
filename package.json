@@ -1,8 +1,9 @@
 {
-  "name": "animal-emoji-interpreter-app",
+  "name": "animal-emoji-interpreter",
   "version": "1.0.0",
-  "description": "This app will interpret what type of animal emoji you have entered.",
+  "description": "An that will interpret what emoji the user has typed.",
   "keywords": [
+    "codesandbox",
     "reactjs",
     "html-css-javascript"
   ],
